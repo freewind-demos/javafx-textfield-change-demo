@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX TextField Change Listener Demo
+=====================================
 
-Show a window with `Hello, JavaFX` label.
+How to listen on a text field when its text changes.
 
